@@ -1,0 +1,39 @@
+#Iris type classification using K_Nearest_Neighbours
+
+This repository contains the code and analysis for my machine learning project.
+
+## Dataset Attribution
+
+The dataset used in this project is the "Iris Plants Database" sourced from the UCI Machine Learning Repository. The dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+### Dataset Details
+
+- **Title:** Iris Plants Database
+- **Source:** UCI Machine Learning Repository
+- **Creator:** R.A. Fisher
+- **Date:** July, 1988
+- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+### Citation
+
+If you use this dataset in your own work, please provide appropriate attribution as follows:
+
+Dataset provided by the UCI Machine Learning Repository: [Iris Plants Database](https://archive.ics.uci.edu/dataset/53/iris)
+
+## About the Project
+
+A from-scratch implementation of K Nearest Neighbours classification algorithm utilizing the Iris dataset.
+
+While it would have been more efficient to perform classification using sci-kit learn, a from-scratch implemenation serves as an educational tool and this implementation is NOT fit for production use.
+
+In conclusion the model achieves a ~95% accuracy in correctly classifying between 'Iris Setosa', 'Iris Versicolor' and 'Iris Virginica'.
+
+## Usage
+
+1. Download dataset 'iris.data' - this version includes column titles and make sure its in the same working directory as code.
+2. Download Code 'IrisClassificationScratch.py' - ensure imported libraries at top are installed.
+3. Run code.
+
+## License
+
+N/A although dataset was pulled from UCI so any use of it needs to respect original authors
