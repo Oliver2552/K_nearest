@@ -20,6 +20,10 @@ If you use this dataset in your own work, please provide appropriate attribution
 
 Dataset provided by the UCI Machine Learning Repository: [Iris Plants Database](https://archive.ics.uci.edu/dataset/53/iris)
 
+### Tutorial source
+
+The code featured here has been adapted from the YouTube tutorial series "Machine Learning with Python" by Sentdex (Harrison Kinsley) however, changed so that it takes in the Iris dataset.
+
 ## About the Project
 
 A from-scratch implementation of K Nearest Neighbours classification algorithm utilizing the Iris dataset.
